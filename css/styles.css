@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+/* BOX */
+
+.box{
+    border: 2px solid rgb(154, 224, 236);
+    width: 80vw;
+    margin: auto;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+/* TEXT */
+
+h1{
+    color: rgb(154, 224, 236);
+    text-align: center;
+}
+
+h2{
+    color: rgb(154, 224, 236);
+}
+
+/* VIDEO */
+
+
+iframe{
+    width: 100%;
+    margin: auto;
+}
+
+/* FOOTER */
+
+p{
+    width: 100%;
+    margin: auto;
+    color: aqua;
+    display: flex;
+    justify-content: center;
+}
